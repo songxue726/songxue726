@@ -3,8 +3,8 @@
 ```javascript
 const '심설송' = {
     pronouns: "He"
-    code: ["php", "javascript", "python"],
-    askMeAbout: ["web", "tech"],
+    code: ["php", "javascript", "python", "java"],
+    askMeAbout: ["web", "tech", "dnf", "wow"],
     technologies: {
         frontEnd: {
             js: ["jQuery"],
@@ -15,10 +15,10 @@ const '심설송' = {
             python: ["Django", "flask", "FastAPI"]
         },
         devOps: ["AWS"],
-        databases: ["MySql", "PostgreSql", "Redis"]
+        databases: ["MySql", "PostgreSql", "MongoDB", "Redis"]
     },
     architecture: ["Monolith", "MSA"],
-    currentProject: "I am learning Python(Django)",
+    currentProject: "I am learning Python(FastAPI)",
     company: currently working on Yogiyo (South Korea)
 };
 ```
