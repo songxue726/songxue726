@@ -12,13 +12,14 @@ const '심설송' = {
         },
         backEnd: {
             php: ["laravel", "lumen", "codeigniter"],
-            python: ["Django", "flask", "FastAPI"]
+            python: ["Django", "flask", "FastAPI"],
+            java: ["Spring boot"]
         },
         devOps: ["AWS"],
         databases: ["MySql", "PostgreSql", "MongoDB", "Redis"]
     },
     architecture: ["Monolith", "MSA"],
-    currentProject: "I am learning Python(FastAPI)",
+    currentProject: "I am learning Java(Spring Boot)",
     company: currently working on Yogiyo (South Korea)
 };
 ```
