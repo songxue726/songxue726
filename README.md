@@ -4,7 +4,7 @@
 const '심설송' = {
     pronouns: "He"
     code: ["php", "javascript", "python", "java"],
-    askMeAbout: ["web", "tech", "dnf", "wow"],
+    askMeAbout: ["web", "tech"],
     technologies: {
         frontEnd: {
             js: ["jQuery"],
